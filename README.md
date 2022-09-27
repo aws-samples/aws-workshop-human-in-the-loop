@@ -1,11 +1,6 @@
-## My Project
+## AWS Workshop - Human in the Loop
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Code related to the workshop [Human in the Loop for SageMaker Models](https://catalog.us-east-1.prod.workshops.aws/workshops/3afdca4d-af04-4802-bd7a-47cec4ba9f4e/en-US)
 
 ## Security
 
